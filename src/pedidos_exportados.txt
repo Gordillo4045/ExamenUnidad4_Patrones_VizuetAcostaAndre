@@ -1,0 +1,10 @@
+=== LISTADO DE PEDIDOS ===
+Fecha de exportación: 12/10/2025 11:58:28 AM
+--------------------------------------------
+ID: 1
+Cliente: 1
+Dirección: Tijuana
+Total: $1,000.00
+Tipo Envío: Local
+Estado: Entregado
+--------------------------------------------
