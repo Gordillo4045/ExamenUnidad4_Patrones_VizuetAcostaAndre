@@ -102,7 +102,7 @@ namespace ExamenUnidad4_Patrones_VizuetAcostaAndre.Presentacion
             var totalTexto = Console.ReadLine();
             decimal total = decimal.TryParse(totalTexto, out var t) ? t : 0m;
 
-            Console.WriteLine("Tipo de envío:");
+            Console.WriteLine("\nTipo de envío:");
             Console.WriteLine("1. Local");
             Console.WriteLine("2. Nacional");
             Console.WriteLine("3. Internacional");
